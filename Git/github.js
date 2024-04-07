@@ -28,3 +28,10 @@
 //2.this all about the already the reporaties in the Remote Reporatory *******************
 //then step one fork the repotatry the the remote reporatory will come into the our local GitHub
 //then make the changes and send Pull request to the Remote repotatory Admin if it is ok then he will Mergr it 
+
+
+//3.How to Handle the Merge Conflict error
+//supose two people are workinng in same file then conflict error Uccur first person is pushed this one is correcct 
+//but second person  is saying that his change is ccorrect
+//we solve this problem once see video in the Utube command ->git merge origin/master after this command we have to go vs code 
+//git push
