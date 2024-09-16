@@ -18,8 +18,9 @@
 //1.this is all about making and Initializing the project**********************
 // initialsize the project using  command ->                               git init
 //check ststus of the git using command ->                                 git status
-//then add the present directory to the staging command->                  git add file or folder
+//then add the present directory to the staging command->                  git add file or folder//git add --all,git add .
 //then from the statting to the local repotatory using command->           git commmit -m "Discription"
+// It will show all the details                                            git log//git checkout
 //to create branches command->                                             git checkout -b "branch name"
 //then push from the local reporaties to remote reporatires command ->     git push -u "File or Foldername"
 
@@ -35,3 +36,13 @@
 //but second person  is saying that his change is ccorrect
 //we solve this problem once see video in the Utube command ->git merge origin/master after this command we have to go vs code 
 //git push
+
+
+
+
+
+// Yogi sir git in class
+// git init 
+// git config user.name "rpurushotham0143"
+// git config user.email "rpuurshotham@gmail.com"
+// git status 
